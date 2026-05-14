@@ -1,0 +1,18 @@
+# Environment & secrets
+.env
+*.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+venv/
+
+# SQLite database
+data/audit.db
+
+# OS
+.DS_Store
+Thumbs.db

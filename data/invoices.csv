@@ -1,0 +1,11 @@
+invoice_no,customer_name,customer_email,amount_due,due_date
+INV-2026-001,Rajesh Kapoor,rajesh.kapoor@example.com,45000,2026-05-08
+INV-2026-002,Priya Sharma,priya.sharma@example.com,120000,2026-05-02
+INV-2026-003,Anil Traders,accounts@aniltraders.com,67500,2026-04-25
+INV-2026-004,Mehta & Sons,billing@mehtasons.in,23000,2026-04-18
+INV-2026-005,Sunrise Exports,finance@sunriseexports.com,89000,2026-04-10
+INV-2026-006,Kumar Logistics,kumar@kumarlogistics.in,55000,2026-05-20
+INV-2026-007,Patel Corp,accounts@patel.in,135000,2026-05-09
+INV-2026-008,Verma Electronics,finance@vermaelectronics.com,32000,2026-05-05
+INV-2026-009,Singh & Associates,singh@associates.in,78000,2026-05-01
+INV-2026-010,Gupta Textiles,gupta@textiles.co.in,210000,2026-04-20
