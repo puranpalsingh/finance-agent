@@ -392,18 +392,3 @@ SELECT * FROM audit_log WHERE stage='Escalated' ORDER BY timestamp DESC;
 
 ---
 
-## 📝 License
-
-Internal Use Only
-
----
-
-## 📞 Support
-
-For issues or questions:
-1. Check `.env` configuration
-2. Verify Gemini API key is active
-3. Review audit logs: `sqlite3 data/audit.db "SELECT * FROM audit_log LIMIT 10;"`
-4. Check console output for LLM errors or validation failures
-
----
